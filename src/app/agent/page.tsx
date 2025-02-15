@@ -1,5 +1,5 @@
 import React from 'react'
-import AISolutions from "../components/secetion"
+import AISolutions from "../components/AISolutions"
 const page = () => {
   return (
     <div>
